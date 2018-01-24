@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="thank_you">Köszönöm!</string>
+    <string name="toppings">Feltét</string>
+    <string name="button_text">Megrendelés</string>
+    <string name="whipping">Tejszínhab</string>
+</resources>
